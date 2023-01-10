@@ -22,6 +22,7 @@ body {
 }
 
 .btn-main {
+  display: flex;
   margin: 20px;
   padding: 10px;
   background: rgb(110, 189, 199);
@@ -38,6 +39,3 @@ body {
   font-size: 20px;
   color: whitesmoke;
 }
-
-
-
