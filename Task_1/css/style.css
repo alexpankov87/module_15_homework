@@ -39,9 +39,5 @@ body {
   color: whitesmoke;
 }
 
-.right-arrow {
-  display: none;
-}
-.bi-arrow-right-short {
-  background-image: url(image/right-arrow.svg);
-}
+
+
