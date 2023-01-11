@@ -19,8 +19,6 @@ const success = (position) => {
 
   let GeoValueMessage = `https://www.openstreetmap.org/#map=18/${latitude}/${longitude}`;
   Geo = GeoValueMessage;
-
-  return GeoValueMessage;
 };
 
 function writeToScreenHref(message) {
